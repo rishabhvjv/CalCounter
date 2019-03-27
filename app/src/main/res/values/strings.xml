@@ -1,0 +1,12 @@
+<resources>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">CalCounter</string>
+    <string name="hint_food">what did you eat?</string>
+    <string name="hint_calories">no. of calories</string>
+    <string name="submit_text">Submit</string>
+    <string name="delete_text">Delete</string>
+    <string name="share_text">Share</string>
+    <string name="food_total_text">total food intake: </string>
+    <string name="cal_food">Cal</string>
+    <string name="food_items_no">No of food items:</string>
+</resources>
